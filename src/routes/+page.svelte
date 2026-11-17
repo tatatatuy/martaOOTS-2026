@@ -16,8 +16,8 @@
 		<div
 			class="mx-auto flex h-[60px] max-w-[1440px] items-center justify-between px-6 lg:h-[72px] lg:px-24"
 		>
-			<a href="/" class="text-[15px] font-semibold lg:text-base">nama.kamu</a>
-
+			<a href="/" class="text-[15px] font-semibold lg:text-base">ig: amourtha10</a>
+			
 			<div class="flex items-center gap-2 lg:gap-8">
 				<nav class="hidden items-center gap-7 lg:flex">
 					<a href="#proyek" class="text-sm text-muted">Proyek</a>
@@ -87,31 +87,32 @@
 		<h1
 			class="text-[62px] leading-[0.88] font-medium tracking-[-1.6px] lg:text-[232px] lg:tracking-[-9px]"
 		>
-			Nama Kamu
+			Hai, aku Marta. 
 		</h1>
 
 		<div class="mt-7 flex flex-col gap-6">
 			<p class="max-w-[560px] text-[17px] leading-[1.6] text-muted lg:text-xl">
-				Siswa SMK jurusan RPL. Membangun antarmuka web yang cepat, rapi, dan mudah dipakai.
+				Masak apa hari ini Bunda?
 			</p>
 
 			<div class="flex items-center gap-3">
 				<a
-					href="#proyek"
+					href="#resep"
 					class="flex h-12 items-center bg-primary px-6 text-[15px] font-medium text-on-primary"
 				>
-					Lihat proyek
+					Lihat resep
 				</a>
 				<a
 					href="#kontak"
 					class="flex h-12 items-center border border-line px-6 text-[15px] text-ink"
 				>
-					Hubungi saya
+					Hubungi saya untuk kelas memasak
 				</a>
 			</div>
 
 			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">
-				TERSEDIA UNTUK PROYEK BARU — 2026
+				pepatah mengatakan "perut kenyang, hati senang" <br>
+				yuk lihat resep-resepnya!
 			</p>
 		</div>
 	</section>
